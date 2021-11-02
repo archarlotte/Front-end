@@ -36,13 +36,13 @@ If database is required to evaluate, please contact our team member.
 
 ### Run through IP address
 
-We deployed our website on the server. You can just simply and use our services by clicking the link http://charityconnects.com/ directly.
+We deployed our website on the server. You can just simply and use our services by clicking the link http://www.charityconnects.com/ directly.
 
 ### Run on the local environment
 
 #### Download and Initialization
 1. Clone the code on your local environment:
-`git clone https://github.com/COMP3900-9900-Capstone-Project/capstoneproject-comp9900-w18b-warriors.git`
+`git clone https://github.com/Front-end/CharityConnects.git`
 
 2. Install python3.7 in the local environment
 
