@@ -1,0 +1,33 @@
+Week 1
+I attended gourp meeting, discussed group name, project topic and what to do next.
+I learn how to use jira
+
+Week 2
+I wrote user stories on Jira.
+I attended grouop meeting, divid part for writing proposal.
+
+Week 3
+I completed the user story part of the proposal.
+I draw sponsor's diagrams part of user story and the story board.
+I fix some small bug in the proposal.
+
+week4
+I designed login page, register page and logout function
+
+week5
+I prepared demoA with group members. 
+Fixed bugs in page.
+
+week6
+Designed search page.
+
+week7
+Prepared demoB with group members.
+Fixed bugs in profile update page and profile page
+
+week8
+Designed communication part.
+
+week9
+Wrote report.
+Fixed bugs

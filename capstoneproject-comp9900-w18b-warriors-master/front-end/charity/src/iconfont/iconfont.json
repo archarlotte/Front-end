@@ -1,0 +1,58 @@
+{
+  "id": "2314799",
+  "name": "mixkit",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "22968516",
+      "name": "users",
+      "font_class": "users",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "22978023",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e89e",
+      "unicode_decimal": 59550
+    },
+    {
+      "icon_id": "22977992",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e89a",
+      "unicode_decimal": 59546
+    },
+    {
+      "icon_id": "22977993",
+      "name": "插座",
+      "font_class": "chazuo",
+      "unicode": "e89b",
+      "unicode_decimal": 59547
+    },
+    {
+      "icon_id": "22978002",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e89c",
+      "unicode_decimal": 59548
+    },
+    {
+      "icon_id": "22978037",
+      "name": "邮件",
+      "font_class": "youjian",
+      "unicode": "e8a0",
+      "unicode_decimal": 59552
+    },
+    {
+      "icon_id": "22978043",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e8a1",
+      "unicode_decimal": 59553
+    }
+  ]
+}

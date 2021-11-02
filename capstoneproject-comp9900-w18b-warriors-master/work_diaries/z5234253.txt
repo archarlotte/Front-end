@@ -1,0 +1,47 @@
+week 2
+
+- choose the topic of our project
+
+- divide our tasks into front-end and back-end
+
+- learn how to use Jira
+
+week 3
+
+- write the proposal (due on 20th June), and I am
+  responsible for the part of the 'Background' and
+  'Related Technologies'
+
+- register the AWS account
+
+week 4
+
+- write LOGIN, REGISTER page
+
+- write GET_PROFILE and EDIT_PROFILE page
+
+week 5
+
+- debug with GET_PROFILE and EDIT_PROFILE page
+
+- discuss with front-end members
+
+week 6
+
+- write SEARCH page
+
+week 7
+
+- write RECOMMENDATION page
+
+week 8 
+
+- write GET_SPONSOR_PROFILE page under BIGGEST_SPONSOR page
+
+- start to write the report
+
+week 9
+
+- finish the report
+
+- prepare the final demo

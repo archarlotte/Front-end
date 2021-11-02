@@ -1,0 +1,43 @@
+{
+    "message": "success",
+    "data": [{
+            "id": 1,
+            "name": "AUS MED",
+            "email": "ausmed@gmail.com",
+            "description": "AUS MED aussie's medication center as sponsor to give people help and needs",
+            "num": "10"
+
+        },
+        {
+            "id": 2,
+            "name": "Sydney breast cancer",
+            "email": "sydneybc@gmail.com",
+            "description": "Sydney breast cancer: Sydney breast cancer as sponsor to give people help and needs ",
+            "num": "8"
+
+        },
+        {
+            "id": 3,
+            "name": "Australia red cross",
+            "email": "aurdcross@redcross.au",
+            "description": "Australia red cross as sponsor",
+            "num": "6"
+
+        },
+        {
+            "id": 4,
+            "name": "WWF",
+            "email": "wwf@ngo.com",
+            "description": "WWF as sponsor as sponsor to give animal help and needs",
+            "num": "4"
+
+        },
+        {
+            "id": 5,
+            "name": "Movember",
+            "email": "movember@gmail.com",
+            "description": "Movember red cross as sponsor",
+            "num": "1"
+        }
+    ]
+}

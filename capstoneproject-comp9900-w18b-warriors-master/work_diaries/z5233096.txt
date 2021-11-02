@@ -1,0 +1,17 @@
+week1: research project topic
+
+week2: write proposal 
+
+week3: database design and build on AWS RDB
+
+week4: backend framwork design
+
+week5: design the backend of communication mail
+
+week6: design the backend part of request connection
+
+week7: backend of response
+
+week8: backend of biggest sponsor page
+
+week9: deploy backend and frontend on AWS, and use AWS Route 53 to connect cloud with domain.

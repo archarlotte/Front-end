@@ -1,0 +1,43 @@
+Week 1
+We formed a group. I created the Jira & GitHub accounts. 
+I wrote the outline of the proposal, and discussed with team members.
+I also found and discussed with the team all available software tools, frameworks, and libraries that we can use for the project.
+
+Week 2
+I designed the first version of database and drew the ER diagram of tables.
+Together with Jiabao Ju, I wrote the user story & sprints section on Jira.
+As Scrum master, I held the group meeting and recorded meeting agenda. 
+
+Week 3
+I completed the System Design part of the proposal. 
+Also, I held the group meeting and recorded meeting agenda. 
+Together with the backend developers, we started to build the database.
+
+Week 4
+I held a group meeting and adjusted the task distribution.
+I designed and made the UI part of login, register, profile, and profile update pages.
+
+Week 5
+I completed the UI design of the Header, and also completed the first version of the Mainpage.
+Prepared for the first progressive demo (A).
+
+Week 6
+I completed the first version of Recommendation, mainly as the UI design and decided the structure.
+Fixed some bug when tested sections that I completed before.
+Completed our group Retrospective(A).
+
+Week 7
+Together with the backend, we completed the first version of Recommendation.
+I also completed the design of UI and page structure of Biggest sponsors.
+Prepared for the second progressive demo (B).
+
+Week 8
+Together with the backend, we completed the final version of Biggest sponsors.
+I added some icons on our website user interfaces and tested the performance.
+Fixed some bug when tested sections that I completed before.
+Completed our group Retrospective(B).
+
+Week 9
+Together with our team members, we tested all sections of our system.
+I wrote some parts our project report.
+Also, we made a outline and practice for the final demo and presentation in Week 10.

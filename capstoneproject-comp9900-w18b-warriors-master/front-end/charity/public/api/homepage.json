@@ -1,0 +1,20 @@
+{
+  "message": "success",
+  "data": [
+    {
+      "id": 1,
+      "desc": "charity",
+      "name": "https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/8/2019/10/Promote-charity-event.png"
+    },
+    {
+      "id": 2,
+      "desc": "sponsor",
+      "name": "https://d20umu42aunjpx.cloudfront.net/landingpages/CN-team-og.png"
+    },
+    {
+      "id": 3,
+      "desc": "connection",
+      "name": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKpvW8Z-ZmnKfKy4kVEr9v-vQjtMAxC8VKbg&usqp=CAU"
+    }
+  ]
+}
