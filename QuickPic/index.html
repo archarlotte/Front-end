@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Quickpic</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- You can add your styles and scripts here -->
+    <link rel="stylesheet" type="text/css" media="screen" href="styles/provided.css" />
+    <script type="module" src="src/helpers.js"></script>
+    <script type="module" src="src/api.js"></script>
+</head>
+<body>
+    <!-- This is an example app structure, you can modify this as much as you choose --> 
+    <header class="banner">
+        <h1>Quickpic</h1>
+        <ul class="nav">
+            <li class="nav-item">Item</li>
+            <li class="nav-item">Item</li>
+        </ul>
+        <button id="logoutbtn">Logout</button>
+        <button id="profile">Profile</button>
+    </header>
+    <main role="main">
+        <div id="divLogin" style="display: block" >
+            <form name="loginForm" >
+                Username:
+                <input type="text" name="username">
+                Password:
+                <input type="password" name="pw">
+                Confirm password:
+                <input type="password" name="conpw">
+                <input type="submit" value="submit" name="submitbtn">
+            </form>
+            <button id="rbtn">Register</button>
+        </div>
+
+        <div id="divReg" style="display: none">
+            <form name="regForm" >
+                Username:
+                <input type="text" name="username">
+                Password:
+                <input type="password" name="pw">
+                Confirm password:
+                <input type="password" name="conpw">
+                Email Address:
+                <input type="email" name="email">
+                Name:
+                <input type="text" name="aname">
+                <input type="submit" value="submit">
+            </form>
+        </div>
+
+        <div id="homePage" style="display: none">
+            <button id="addPost">Post</button>
+            <div id="postBox"></div>
+        </div>
+        <div id="personpage" style="display: none">
+            <button id="otherFollow">follow</button>
+            <div id="personbox"></div>
+        </div>
+        <div id="profilepage" style="display: none">
+            <button id="follow">follow</button>
+            <button id="edit">Edit</button>
+            <div id="profilebox"></div>
+        </div>
+        <div id="updateProfile" style="display: none">
+            Email:
+            <input type="text" id="upEmail">
+            Name:
+            <input type="text" id="upName">
+            Password:
+            <input type="password" id="upPassword">
+            <input type="submit" id="profileSubmit">
+        </div>
+        <div id="postPage" style="display: none">
+            Description:
+            <input type="text" id="description">
+            <input type="file" id="picture">
+            <input type="submit" id="postsubmit">
+        </div>
+        <div id="updatePage" style="display: none">
+            Description:
+            <input type="text" id="updescription">
+            <input type="file" id="uppicture">
+            <input type="submit" id="upsubmit">
+        </div>
+
+        <!-- app goes here --> 
+    </main>
+    <footer>
+        <p>&copy; Quickpic</p>
+    </footer>
+    <script type="module" src="src/main.js"></script>
+</body>
+</html>
